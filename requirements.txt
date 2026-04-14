@@ -1,0 +1,13 @@
+✅ Full Version
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+nltk
+
+✅ Minimal Version (Simple)
+streamlit
+pandas
+scikit-learn
